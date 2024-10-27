@@ -5,7 +5,7 @@ Aqui se realizan las practicas en Django que es un framework marco de trabajo UI
 - 3 Link de referencia https://code.visualstudio.com/docs/python/tutorial-django
 - 4 Abrir terminal VS code
 - 5 Verificar que este instalado Python ---> python --version
-- 6 Crear entorno virtual ---> py -3 -m venv .venv
+- 6 Crear entorno virtual ---> py -3 -m venv .venv o python -m venv .venv
 - 7 Activar entorno virtual ---> .venv\scripts\activate.bat
 - 8 Seleccionar interprete de Python    Seleccionar F1
 - 9 Actualizar PIP --> python -m pip install --upgrade pip
